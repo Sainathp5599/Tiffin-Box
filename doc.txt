@@ -1,0 +1,40 @@
+Title        : Tiffin Box
+
+Discription  : This project is a digital tiffin service management 
+               system that connects buyers and distributors. It allows 
+               users to register, log in, place orders, and view their 
+               tiffin details, while distributors can manage and track all 
+               customer orders easily.
+
+Working Flow : 1. User logs in or registers.
+               2. Buyer places an order by selecting quantity and meal time.
+               3. Distributor receives and manages all orders.
+               4. System displays order details for both buyer and distributor.
+               5. Orders can be viewed, updated, or marked as delivered.
+
+Main Menu ->
+                ====== TIFFIN BOX ======
+                -> 1. Buyer Registration
+                -> 2. Buyer Login
+                -> 3. Distributor Login
+                -> 4. Exit
+                =========================
+                Select an option: 
+
+Buyer Menu -> 
+                ====== BUYER MENU ======
+                -> 1. Show Today's Menu
+                -> 2. Add Order
+                -> 3. View Order
+                -> 4. Log Out
+                =========================
+                Select an option: 
+
+Admin Menu ->
+                ====== ADMIN MENU ======
+                -> 1. View All Orders
+                -> 2. View Pending Orders
+                -> 3. Update Order Status
+                -> 4. Log Out
+                =========================
+                Select an option: 

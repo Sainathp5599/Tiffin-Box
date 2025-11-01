@@ -1,0 +1,5 @@
+Chapati=2 pcs=10
+Sabji=Paneer Butter Masala=40
+Rice=Jeera Rice=25
+Dal=Dal Tadka=20
+Sweet=Gulab Jamun=15
